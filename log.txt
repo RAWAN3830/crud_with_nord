@@ -1,0 +1,10 @@
+
+function now() { [native code] }:::1 GET : /users/
+
+function now() { [native code] }:::1 GET  /users/
+
+function now() { [native code] }:::1 GET:/users/
+
+function now() { [native code] }:::1 POST:/api/users/
+
+function now() { [native code] }:::1 POST:/api/users/
